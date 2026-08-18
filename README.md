@@ -35,7 +35,7 @@
   
   <img src="https://img.shields.io/badge/HSC.90.17%25-blue?style=for-the-badge&logo=googlescholar"/>
   
-  <img src="https://img.shields.io/badge/B.Tech-CSE-orange?style=for-the-badge&logo=bookstack"/>
+  <img src="https://img.shields.io/badge/BE-CE-orange?style=for-the-badge&logo=bookstack"/>
 </p>
 
 ---
