@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Wadhekar</h1>
 
 <h3 align="center">
-  🚀 Full-Stack MERN Developer | 💻 CSE Student | 🤖 AI & ML Explorer
+  🚀 Full-Stack MERN Developer | 💻 CE Student | 🤖 AI & ML Explorer
 </h3>
 
 <p align="center">
@@ -114,7 +114,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/wadhekarvaibhav327-svg/wadhekarvaibhav327-svg&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/wadhekarvaibhav327-svg&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
